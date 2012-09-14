@@ -1,4 +1,1 @@
-TicTacToe
-=========
-
-TicTacToe in Haskell
+Simple TicTacToe written in Haskell
